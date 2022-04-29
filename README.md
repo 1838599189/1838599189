@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1838599189
 - 👀 I’m interested in Computer languages
-- 🌱 I’m currently learning Programming language 
+- 🌱 I’m currently learning C Programming language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
